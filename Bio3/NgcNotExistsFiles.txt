@@ -1,0 +1,13 @@
+﻿E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_aj\rdt\r11b.rdt 61f20--622e0 MaxLen:233
+
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_aj\rdt\r119.rdt 3d03a--3d0b0 MaxLen:6
+
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_j\rdt\r124.rdt 52c8c--53060 MaxLen:1
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_aj\rdt\r124.rdt 52c8c--53060 MaxLen:1
+
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_aj\rdt\r208.rdt 658b1--65a30 MaxLen:1
+
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_j\rdt\r304.rdt 3e2fe--3e384 MaxLen:34
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_aj\rdt\r304.rdt 3e2fe--3e384 MaxLen:34
+
+E:\Study\Hanhua\待漢化\Bio3\NgcBio3\root\bio19\data_aj\rdt\r510.rdt 5d14d--5d176 MaxLen:14
