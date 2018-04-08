@@ -8,3 +8,17 @@ Start.dol_4
 203B14 2041e0 204364
 Start.dol_5
 205090 2051a4
+Start.dol_6
+200148 2002ae 2002c0 
+Start.dol_7
+204e00 204ed2 204ee0
+Start.dol_8
+2056e0 2058b2 2058d8
+Start.dol_9
+208790 208836 208854
+Start.dol_10
+208997 208a92 208aa4
+Start.dol_11
+1fab48 1fab70
+Start.dol_12
+200678 200689
