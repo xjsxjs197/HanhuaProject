@@ -1,0 +1,34 @@
+root\etc\title.datgc.rleDec
+db560 e5434 d4350
+root\st01\st013.datgc.rleDec
+379218 379262 379210
+root\st02\st023.datgc.rleDec
+402e5c 402f30 402e50
+root\st03\st033.datgc.rleDec
+269738 2697ce 269730
+root\st04\st043.datgc.rleDec
+20d11c 20d1ae 20d110
+root\st07\st070.datgc.rleDec
+302c78 302cc4 302c70
+root\st08\st084.datgc.rleDec
+160e90 163c04 160530
+root\st08\st085.datgc.rleDec
+669880 673754 662670
+root\st08\st08400.datgc.rleDec
+4b5050 4b7dc4 4b46f0
+root\st08\st08401.datgc.rleDec
+eb5f0 ee364 eac90
+root\hard\st01\st013.datgc.rleDec
+2effd8 2f0022 2effd0
+root\hard\st02\st023.datgc.rleDec
+42c5dc 42c6b0 42c5d0
+root\hard\st03\st033.datgc.rleDec
+1d1fd8 1d206e 1d1fd0
+root\hard\st04\st043.datgc.rleDec
+1ba6dc 1ba76e 1ba6d0
+root\hard\st07\st070.datgc.rleDec
+29fe58 29fea4 29fe50
+root\hard\st08\st084.datgc.rleDec
+160e90 163c04 160530
+root\hard\st08\st085.datgc.rleDec
+669880 673754 662670
