@@ -1,0 +1,2 @@
+MEM_CARD.BIN
+40b0 444f 44e5
