@@ -1,0 +1,38 @@
+﻿&&systemdata\Start.dol
+1767e8 176902
+&&systemdata\Start.dol
+1769c0 176a4f
+&&systemdata\Start.dol
+179e24 179e42
+&&systemdata\Start.dol
+179f28 17a056
+&&systemdata\Start.dol
+17a9c0 18b236
+&&systemdata\Start.dol
+18b2e8 18d276
+&&systemdata\Start.dol
+18f1c0 197744
+&&systemdata\Start.dol
+1977c8 197d76
+&&systemdata\Start.dol
+1980a8 198b64
+&&systemdata\Start.dol
+199938 19b55d
+&&systemdata\Start.dol
+19b69c 19ba52
+&&systemdata\Start.dol
+19ba70 19bca0
+&&systemdata\Start.dol
+19bcc8 19bd68
+&&systemdata\Start.dol
+19bdcc 19ea3c
+&&systemdata\Start.dol
+19ebc0 1a8ac2
+&&systemdata\Start.dol
+1a8b10 1a8d8c
+&&systemdata\Start.dol
+1a8de0 1a8de8
+&&systemdata\Start.dol
+1a8e08 1a94ec
+&&systemdata\Start.dol
+1a97f0 1aa4ac
