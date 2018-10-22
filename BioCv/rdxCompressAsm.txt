@@ -1,0 +1,105 @@
+﻿                 mov.l        r9, @-r15
+                 mov.l        r8, @-r15
+                 mov.w        @(8,pc), r9     ;   [00000010] = h'FFFFFF00
+                 mov.w        @(8,pc), r8     ;   [00000012] = h'FFFFE000
+
+                 mov.b        @r4+, r6        ; r6 = 压缩地址读一个字节
+                 mov          #9, r7          ; r7 = 1001?
+                 bra          loc_1A          ; 跳转到loc_1A
+                 mov          r5, r3          ; r5 = 解压地址
+ ; ---------------------------------------------------------------------------
+ word_10:        .data.w        h'FF00          ; DATA XREF: ROM:00000004r
+ word_12:        .data.w        h'E000          ; DATA XREF: ROM:00000006r
+ ; ---------------------------------------------------------------------------
+
+ loc_14:                                        ; CODE XREF: ROM:loc_26j
+                 mov.b        @r4+, r1        ; 压缩地址读一个字节写入到解压地址
+                 mov.b        r1, @r5
+                 add          #1, r5
+
+ loc_1A:                                        ; CODE XREF: ROM:0000000Cj
+
+                 dt          r7                ; r7--(r7==0时，为真；非0时，为假)
+                 bf/s        loc_26            ; r7为真时，往下执行；为假时，先执行下一条指令，再执行loc_26
+                 shlr        r6                ; r6右移一bit
+                 mov.b       @r4+, r6
+                 mov         #8, r7
+                 shlr        r6
+
+ loc_26:                                        ; CODE XREF: ROM:0000001Cj
+                 bt          loc_14             ; r6右移的1bit判断是否为1，如果为1，执行loc_14
+                 dt          r7                 ; r7--(r7==0时，为真；非0时，为假)
+                 bf/s        loc_34            ； r7为真时，往下执行；为假时，先执行下一条指令，再执行loc_34
+                 shlr        r6                 ; r6右移一bit
+                 mov.b       @r4+, r6
+                 mov         #8, r7
+                 shlr        r6
+
+ loc_34:                                        ; CODE XREF: ROM:0000002Aj
+                 bt        loc_6A               ; r6右移的1bit判断是否为1，如果为1，执行loc_6A
+                 mov        #0, r0
+                 dt        r7
+                 bf/s        loc_44
+                 shlr        r6
+                 mov.b        @r4+, r6
+                 mov        #8, r7
+                 shlr        r6
+
+ loc_44:                                        ; CODE XREF: ROM:0000003Aj
+                 rotcl        r0                ; r0左移1bit
+                 dt           r7
+                 bf/s        loc_52
+                 shlr        r6
+                 mov.b        @r4+, r6
+                 mov        #8, r7
+                 shlr        r6
+
+ loc_52:                                        ; CODE XREF: ROM:00000048j
+                 mov.b        @r4+, r2
+                 rotcl        r0
+                 or        r9, r2                ; r9 为负数 -100
+
+ loc_58:                                        ; CODE XREF: ROM:00000080j
+                 add        #2, r0
+                 add        r5, r2                ; 当前解压地址 后退r2个字节
+
+loc_5C:                                        ; CODE XREF: ROM:00000062j
+                                         ; ROM:0000008Aj
+                 mov.b        @r2+, r1
+                 dt        r0
+                 mov.b        r1, @r5
+                 bf/s        loc_5C
+                 add        #1, r5
+                 bra        loc_1A
+                 nop
+ ; ---------------------------------------------------------------------------
+
+ loc_6A:                                        ; CODE XREF: ROM:loc_34j
+                 mov.b        @r4+, r0
+                 mov.b        @r4+, r1
+                 extu.b        r0, r2
+                 shll8        r1
+                 or        r1, r2
+                 tst        r2, r2                ; r2 =   压缩地址读2字节        r0|（r1<<8)
+                 bt        loc_8E                ; r2 = 0 结束解压
+                shlr2        r2
+                 shlr        r2
+                 and        #7, r0
+                 tst        r0, r0
+                 bf/s        loc_58
+                 or        r8, r2                ; r8 为负数 -2000（0xE000）
+                 mov.b        @r4+, r0
+                 add        r5, r2                ; 当前解压地址 后退r2个字节
+                extu.b        r0, r0
+                 bra        loc_5C
+                 add        #1, r0
+ ; ---------------------------------------------------------------------------
+
+ loc_8E:                                        ; CODE XREF: ROM:00000076j
+                 mov.l        @r15+, r8
+                 mov.l        @r15+, r9
+                 mov        r5, r0
+                 rts
+                 sub        r3, r0
+
+                 .end ;

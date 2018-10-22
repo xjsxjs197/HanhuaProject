@@ -1,0 +1,470 @@
+rm_6000.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^那个是。。。^ff 0^^ff 1^应该是之前从岛上逃离用的飞机吧^ff 2 0 3c^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^那么^ff 1^这里也是安布雷拉的。。。^ff 2 0 2d^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^唔。。。唔嗯。。。。。。^ff 2 0 2d^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^快起来^ff 1^史蒂夫！^ff 2 0 23^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^还活着啊^ff 1^我们^ff 1^^ff 2 0 46^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^谢谢^ff 2 0 14^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^这玩意。。。已经不能用了呢。。。^ff 2 0 46^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^我们分头找这个大冰柜的出口吧^ff 0^^ff 1^^ff 1^^ff 1^^ff 2 0 5a^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那么出发吧！^ff 2 0 28^^ff ff^
+rm_6000.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿尔弗雷德！^ff 2 0 2d^^ff ff^
+rm_6051.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我都干了些什么啊^ff 1^^ff 2 0 2d^^ff ff^
+rm_6051.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^现在可没有消沉的时间^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^听好了^ff 1^史蒂夫^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^从现在开始一定要一起逃脱^ff 2 0 64^^ff ff^
+rm_6051.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^首先^ff 1^如何将气体消除^ff 2 0 5a^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^分头找找看方法吧^ff 2 0 5f^^ff ff^
+rm_6051.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^明白了^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 32^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫！^ff 2 0 1e^^ff ff^
+rm_6051.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^别忘了！^ff 2 0 1e^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一定要。。。。。。一起回去啊！^ff 2 0 55^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^前方距离这里十公里左右的地方^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^好像有观测基地^ff 2 0 af^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^如果能到那里的话就会得救的！^ff 2 0 37^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^正好^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^看那个！^ff 1^是挖掘机^ff 2 0 67^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^如果能用那个到外面的话^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^就能到那边去了呢^ff 2 0 4b^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^如果能用那个挖掘机到外面的话^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^就能到那边去了呢^ff 2 0 78^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^好了^ff 1^交给我了^ff 2 0 2c^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫^ff 1^危险！^ff 2 0 1e^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^糟了！^ff 2 0 1a^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^可恶！^ff 1^有毒气体！^ff 2 0 23^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快点！^ff 2 0 19^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这下总算放心了呢^ff 2 0 46^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是吗？^ff 2 0 28^^ff ff^
+rm_6060.rdx@.bioCvDec
+^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^做梦！^ff 1^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 2 0 69^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^不能让你得手！^ff 2 0 1e^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^又是你这家伙！^ff 2 0 20^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^什么？^ff 1^什么声音！？^ff 2 0 2e^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^出发吧！^ff 2 0 28^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^走吧^ff 1^克莱尔^ff 2 0 1e^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^把墙砸破吧！^ff 2 0 32^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^加油！^ff 2 0 23^^fe 8^^ff 1^^ff 2 5 19^^fe 8^^ff 0^^ff 1^^ff 1^克莱尔！^ff 1^可以从那里逃出去^ff 2 0 46^^fe 8^^ff 1^^ff 2 0 b4^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^出发吧！^ff 2 0 23^^fe 8^^ff ff^
+rm_6060.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔^ff 1^在干什么呢？^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快点走吧！^ff 2 0 50^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^克莱尔！^ff 1^快点来啊！^ff 2 0 23^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^快离开这个鬼地方吧！^ff 2 0 41^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那么^ff 1^走吧！^ff 2 0 1e^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^快点走吧^ff 1^在干什么呢^ff 2 0 50^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这^ff 1^这家伙！^ff 2 0 14^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫！！^ff 2 0 19^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^等等！^ff 1^先把那家伙收拾掉！^ff 2 0 4b^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔！^ff 1^别管我^ff 2 0 41^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快逃！^ff 2 0 19^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你这怪物！^ff 2 0 28^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫！^ff 2 0 14^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^史蒂夫^ff 1^你没事吧！？^ff 2 0 1e^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔。。。^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你还好吗？^ff 2 0 1e^^ff ff^
+rm_6100.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^抱歉^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^又一次^ff 1^做了傻事呢^ff 2 0 4b^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 1^好了好了^ff 1^现在不是管那些事的时候^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快跑吧！^ff 2 0 41^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^下回我一定会保护你的^ff 1^克莱尔^ff 2 0 4b^^ff ff^
+rm_6100.rdx@.bioCvDec
+^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^在干什么！^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快走啊！^ff 2 0 3c^^ff ff^
+rm_6100.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 a5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^太好了！^ff 2 0 19^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^到外面来了！^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 46^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快看！^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那里有雪地车！^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 9b^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^太好了！^ff 2 0 1e^^fe 8^^ff 0^^ff 1^^ff 1^坐它就可以到观测基地了呢！^ff 2 0 64^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^跟我来！^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快点出发吧！^ff 2 0 28^^fe 8^^ff 1^^ff 2 1 1d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^什^ff 1^什么。。。^ff 2 0 50^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔。。。^ff 2 0 1e^^fe 8^^ff 1^^ff 2 2 da^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿^ff 1^阿雷克西亚。。。^ff 2 0 5a^^fe 8^^ff 1^^ff 2 3 7a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚^ff 2 0 28^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^终于觉醒了呢^ff 2 0 46^^fe 8^^ff 1^^ff 2 0 1e^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克。。。西。。。亚。。。^ff 2 0 32^^fe 8^^ff 1^^ff 2 1 9f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那是什么东西！？^ff 2 0 23^^fe 8^^ff ff^
+rm_7030.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^这个女的是谁？！^ff 1^^ff 2 0 28^^ff ff^
+rm_7070.rdx@.bioCvDec
+^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^有^ff 2 0 51^^ff 2 0 0^^ff 1^^ff 1^^ff 1^^ff 1^要拿^ff 3 0 51^吗？^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 4^Ｙｅｓ^ff 1^^ff 1^^ff 4^Ｎｏ^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 50^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^好久不见了呢^ff 1^克里斯^ff 2 0 46^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^威斯克！？^ff 2 0 19^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^。。。你还活着么！？^ff 2 0 37^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^为什么^ff 1^你会在这里！？^ff 2 0 1e^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我的目的^ff 1^是阿雷克西亚^ff 2 0 37^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^什么？^ff 2 0 14^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我是受命来抓她的^ff 2 0 46^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那么^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 8^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^袭击了这里的^ff 1^是你么^ff 2 0 28^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^难道^ff 1^克莱尔也。。。！^ff 2 0 2d^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^就算把你碎尸万段^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^也不足以解我心头之恨^ff 2 0 5a^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^你破坏了我的计划。。。^ff 2 0 41^^ff ff^
+rm_7070.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^所以^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我投靠了新的组织^ff 2 0 73^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^就在这里^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^死吧！！^ff 2 0 14^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^最后告诉你一件事吧^ff 2 0 37^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^根据这里的资料显示^ff 1^你的妹妹^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^现在就在南极^ff 2 0 69^^ff 1^^ff 2 0 32^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^而且^ff 1^阿雷克西亚也在^ff 2 0 28^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^真遗憾啊^ff 0^^ff 1^^ff 1^^ff 1^没能和妹妹见上面就死掉了^ff 2 0 64^^fe 8^^ff ff^
+rm_7070.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚！^ff 2 0 1e^^ff ff^
+rm_7071.rdx@.bioCvDec
+^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^有^ff 2 0 51^^ff 2 0 0^^ff 1^^ff 1^^ff 1^^ff 1^要拿^ff 3 0 51^吗？^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 4^Ｙｅｓ^ff 1^^ff 1^^ff 4^Ｎｏ^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 50^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^好久不见了呢^ff 1^克里斯^ff 1^^ff 2 0 46^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^威斯克！？^ff 2 0 19^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^。。。你还活着么！？^ff 2 0 37^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^为什么你会在这里！？^ff 1^^ff 2 0 1e^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我的目的是阿雷克西亚^ff 1^^ff 2 0 37^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^什么？^ff 2 0 14^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我是受命来抓她的^ff 2 0 46^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那么^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 8^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^袭击了这里的是你么^ff 1^^ff 2 0 28^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^难道^ff 1^克莱尔也。。。！^ff 2 0 2d^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^就算把你碎尸万段^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^也不足以解我心头之恨^ff 2 0 5a^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^你破坏了我的计划。。。^ff 2 0 41^^ff ff^
+rm_7071.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^所以^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我投靠了新的组织^ff 2 0 73^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^就在这里^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^死吧！！^ff 2 0 14^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^最后告诉你一件事吧^ff 2 0 37^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^根据这里的资料显示^ff 1^你的妹妹^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^现在就在南极^ff 2 0 69^^ff 1^^ff 2 0 32^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^而且阿雷克西亚也在^ff 1^^ff 2 0 28^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^真遗憾啊^ff 0^^ff 1^^ff 1^^ff 1^没能和妹妹见上面就死掉了^ff 2 0 64^^fe 8^^ff ff^
+rm_7071.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚！^ff 2 0 1e^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这个岛上还有^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^活着的家伙么。。。^ff 2 0 78^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是谁？^ff 2 0 1e^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我是为了找妹妹而来的^ff 2 0 3c^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^妹妹？^ff 2 0 14^^ff ff^
+rm_7220.rdx@.bioCvDec
+^ff 1^^fe 0^^ff 1^她的名字是克莱尔·雷德菲尔德^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你见过她吗？^ff 2 0 50^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是克莱尔吗？^ff 2 0 46^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你知道她在哪！？^ff 2 0 46^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^别担心^ff 2 0 28^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我在逃出来的过程中^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^看到了几架^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^飞机飞走了^ff 2 0 69^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^她应该是^ff 1^坐着那个^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^从这个岛上逃走了吧^ff 2 0 78^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是这样啊^ff 2 0 28^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 1^^ff 1^^ff 1^我妹妹好像承蒙你关照了^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^谢谢你^ff 2 0 64^^ff ff^
+rm_7220.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^这里已经^ff 1^没人了。。。^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^大概只剩下我了吧^ff 2 0 50^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快走吧^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^快点离开^ff 1^这个岛^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^去找你妹妹吧^ff 2 0 50^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这个岛上还有^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^活着的家伙么。。。^ff 2 0 78^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是谁？^ff 2 0 1e^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我是为了找一个女孩而来的^ff 2 0 41^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^女孩？^ff 2 0 19^^ff ff^
+rm_7221.rdx@.bioCvDec
+^ff 1^^fe 0^^ff 1^她的名字是克莱尔·雷德菲尔德^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你见过她吗？^ff 2 0 50^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是克莱尔吗？^ff 2 0 46^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你知道她在哪！？^ff 2 0 46^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^别担心^ff 2 0 28^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我在逃出来的过程中^ff 2 0 3c^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^看到几架飞机飞走了^ff 2 0 6e^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^她应该是坐着那个^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^从这个岛上逃走了吧^ff 2 0 78^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是这样啊^ff 2 0 3c^^fe 8^^ff 1^^ff 1^^ff 1^我妹妹好像之前承蒙你关照了^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^谢谢你^ff 2 0 64^^ff ff^
+rm_7221.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^人都死光了。。。^ff 2 0 50^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^剩下的大概就只有我了吧^ff 2 0 64^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快走吧^ff 2 0 32^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^随着你妹妹^ff 1^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^离开这里吧^ff 2 0 50^^ff ff^
+rm_7230.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^喂！振作一点！^ff 1^^ff 2 0 2d^^ff ff^
+rm_7230.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 64^^fe 8^^ff 1^^ff 1^。。。这。。。这下就能在家人的^ff 0^^ff 1^^ff 1^身边。。。休。。。休息了呢^ff 2 0 c8^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这、这个。。。^ff 1^^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这是什么？^ff 2 0 19^^fe 8^^ff ff^
+rm_7230.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^作为。。。救她的。。。报答^ff 2 0 c8^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^对我来说。。。已经^ff 1^用不着。。。了^ff 2 0 aa^^fe 8^^ff 1^^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^给。。。你。。。^ff 2 0 32^^ff ff^
+rm_7230.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^。。。现在^ff 1^带着到^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^家人的身边吧。。。^ff 2 0 5a^^ff ff^
+rm_7231.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^喂！振作一点！^ff 1^^ff 2 0 2d^^ff ff^
+rm_7231.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 64^^fe 8^^ff 1^^ff 1^。。。这。。。这下就能在家人的^ff 0^^ff 1^^ff 1^身边。。。休。。。休息了呢^ff 2 0 c8^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这、这个。。。^ff 1^^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这是什么？^ff 2 0 19^^fe 8^^ff ff^
+rm_7231.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^作为。。。救她的。。。报答^ff 2 0 c8^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^对我来说。。。已经^ff 1^用不着。。。了^ff 2 0 aa^^fe 8^^ff 1^^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^给。。。你。。。^ff 2 0 32^^ff ff^
+rm_7231.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^。。。现在^ff 1^带着到^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^家人的身边吧。。。^ff 2 0 5a^^ff ff^
+rm_7240.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^从里昂那里得知消息^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我就马上赶来这里^ff 2 0 6e^^ff ff^
+rm_7240.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^一定要平安啊^ff 1^克莱尔^ff 2 0 28^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我马上就去救你^ff 2 0 28^^ff ff^
+rm_7240.rdx@.bioCvDec
+^fe 0^^ff 1^同^ff 2 0 3^^fe 8^^ff 1^同时^ff 2 0 3^^fe 8^^ff 1^同时间^ff 2 0 1e^^fe 8^^ff 1^同时间^ff 1^克^ff 2 0 3^^fe 8^^ff 1^同时间^ff 1^克里^ff 2 0 3^^fe 8^^ff 1^同时间^ff 1^克里斯^ff 2 0 a^^fe 8^^ff 1^同时间^ff 1^克里斯·雷^ff 2 0 1^^fe 8^^ff 1^同时间^ff 1^克里斯·雷德^ff 2 0 1^^fe 8^^ff 1^同时间^ff 1^克里斯·雷德菲^ff 2 0 1^^fe 8^^ff 1^同时间^ff 1^克里斯·雷德菲^ff 2 0 1^^fe 8^^ff 1^同时间^ff 1^克里斯·雷德菲尔^ff 2 0 1^^fe 8^^ff 1^同时间^ff 1^克里斯·雷德菲尔德^ff 2 0 32^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^于^ff 2 0 3^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^于孤^ff 2 0 3^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^于孤岛^ff 2 0 3^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^于孤岛上^ff 2 0 28^^ff ff^
+rm_8030.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚！^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^可恶！^ff 2 0 14^^fe 8^^ff ff^
+rm_8030.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^已经觉醒了么！！^ff 2 0 28^^ff ff^
+rm_8030.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^克里斯。。。你果然出现了呢^ff 2 0 64^^ff ff^
+rm_8030.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^等一下^ff 1^克里斯^ff 0^^ff 1^^ff 1^^ff 1^我现在^ff 1^有礼物要送给你^ff 2 0 73^^ff ff^
+rm_8030.rdx@.bioCvDec
+^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^这是我给我老朋友^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^小小的款待^ff 2 0 5a^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^慢慢享用吧！^ff 2 0 23^^ff 0^^ff ff^
+rm_9050.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^什么！？^ff 1^这个是。。。^ff 2 0 23^^ff ff^
+rm_9050.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚。。。^ff 2 0 1e^^ff ff^
+rm_9050.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这就是与蝼蚁^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^相称的下场^ff 2 0 70^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^你们也会与他一样的^ff 2 0 37^^fe 8^^ff 1^^ff 2 0 23^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^有什么最后的^ff 1^遗愿吗？^ff 2 0 37^^ff ff^
+rm_9090.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^等着我^ff 1^克莱尔^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我一定会救你的！^ff 2 0 23^^ff ff^
+rm_9091.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^爆炸装置已经启动。。。^ff 2 0 86^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^所有人员请立即撤离^ff 2 0 78^^ff ff^
+rm_9100.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^威斯克！你也在这里？！^ff 1^^ff 2 0 41^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^与那个别墅中一模一样。。。^ff 2 0 2d^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^怎么可能^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 3^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔。。。^ff 2 0 1e^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 1e^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^克莱尔^ff 1^我很快就会治好你的^ff 2 0 1e^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我好想你。。。^ff 2 0 2d^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你没事就太好了^ff 2 0 21^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^但首先^ff 1^要先从这里逃出去^ff 2 0 32^^ff ff^
+rm_9150.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^等等^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫还困在这里呢^ff 2 0 53^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫是？^ff 2 0 1e^^fe 8^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^一起从孤岛逃了出来^ff 2 0 50^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^可是在被怪物袭击之后^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^就失散了。。。^ff 2 0 55^^ff ff^
+rm_9150.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^难道^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^他还在这基地的某处？^ff 2 0 4b^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^一定是这样的！^ff 2 0 23^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔？！^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你怎么了！^ff 2 0 1e^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^毒^ff 1^被病毒。。。^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^似乎是被怪物的病毒感染了。。。^ff 2 0 46^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^在这里等我^ff 1^我马上回来^ff 2 0 46^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^没事吧^ff 1^克莱尔^ff 2 0 19^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我没事^ff 1^谢谢。。。^ff 2 0 19^^fe 8^^ff 1^^ff 2 0 1e^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^总是让哥哥^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这样来救我^ff 2 0 78^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚！^ff 2 0 19^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚？^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^阿雷克西亚她^ff 1^还活着么！？^ff 2 0 37^^fe 8^^ff 1^^ff 2 0 55^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我现在就带你去^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^与蝼蚁相称的墓地^ff 2 0 8c^^ff ff^
+rm_9150.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^难道^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^她把史蒂夫！^ff 2 0 50^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快追上去！^ff 2 0 2d^^ff ff^
+rm_9150.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^我马上^ff 1^就去救你了。。。^ff 2 0 55^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^是史蒂夫吗？^ff 2 0 19^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^。。。克莱尔。。。^ff 2 0 1e^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^不可以！^ff 1^呆着的别动！^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这是谁干的！？^ff 2 0 32^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那个女的对我。。。^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 19^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^做了对她的父亲。。。^ff 0^^ff 1^^ff 1^^ff 1^同样的。。。实验。。。^ff 2 0 b4^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^她完全疯掉了。。。^ff 2 0 5a^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你怎么了！？^ff 2 0 19^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^好^ff 1^好痛苦。。。^ff 2 0 46^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^克^ff 1^克莱尔。。。救救我。。。^ff 2 0 64^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^救^ff 1^救救。。。我。。。^ff 2 0 3c^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克。。。克莱尔。。。^ff 2 0 28^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫！^ff 2 0 19^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^怎^ff 1^怎么会！^ff 2 0 19^^ff ff^
+rm_9280.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 6 54^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克^ff 1^克莱尔^ff 2 0 1e^^fe 8^^ff 1^^ff 2 1 d6^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^。。。史蒂夫^ff 2 0 1e^^fe 8^^ff 1^^ff 2 2 44^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^好^ff 1^好温暖啊^ff 2 0 50^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫。。。^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^振作一点^ff 2 0 5a^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥已经来救我了^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我们一起从这里逃出去吧^ff 2 0 78^^fe 8^^ff 1^^ff 2 0 28^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^太好了。。。。。。^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你哥哥终于来了^ff 2 0 8c^^fe 8^^ff 1^^ff 2 0 32^^fe 8^^ff 0^^ff 1^我已经。。。支持不下去了。。。^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^什么。。。你在说什么呢？^ff 2 0 50^^fe 8^^ff 1^^ff 2 0 1e^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^能认识你真是太好了。。。^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 19^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我。。。^ff 2 0 19^^fe 8^^ff 1^^ff 2 0 4b^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我喜欢你。。。^ff 2 0 28^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔。。。^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 aa^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫？！^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 46^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^史蒂夫！^ff 1^史蒂夫！！^ff 2 0 78^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔？^ff 2 0 19^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥？。。。！？^ff 2 0 19^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^该死！^ff 2 0 19^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^打不开！^ff 2 0 1e^^ff ff^
+rm_9290.rdx@.bioCvDec
+^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^fe 0^^ff 1^^ff 1^克莱尔！^ff 0^^ff 1^^ff 1^^ff 1^史蒂夫和你在一起么！？^ff 2 0 3c^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 96^^fe 8^^ff 0^^ff 1^。。。史蒂夫。。。史蒂夫他。。。^ff 2 0 78^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^发生什么事了？^ff 2 0 2d^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^先别说那些了^ff 1^克莱尔^ff 2 0 28^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我马上让你从这里出来^ff 2 0 32^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^能从里面打开吗？^ff 2 0 32^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^不行。。。做不到^ff 2 0 2d^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^。。。哥哥。。。^ff 2 0 2d^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^在什么地方^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^应该有自爆装置。。。^ff 2 0 4b^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^要是你启动自爆装置^ff 2 0 32^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 1^^ff 1^^ff 1^所有的电子锁都会被解除^ff 0^^ff 1^^ff 1^^ff 1^^ff 2 0 50^^ff ff^
+rm_9290.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔？^ff 2 0 23^^ff ff^
+rm_9300.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^成功了！^ff 2 0 28^^ff ff^
+rm_9300.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^当然了^ff 2 0 f^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^好了^ff 1^快点逃出去吧^ff 1^^ff 2 0 32^^ff ff^
+rm_9300.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 1 d1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^怎么办呢^ff 1^哥哥^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 e6^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^好吧^ff 1^用那个东西^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^一发信号就同时向右转^ff 2 0 5f^^fe 8^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^明白了！^ff 2 0 19^^fe 8^^ff 1^^ff 2 0 ff^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^１。。。^ff 2 0 f^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^２。。。^ff 2 0 f^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^３！^ff 2 0 19^^fe 8^^ff 1^^ff 2 0 69^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^能源开始注入^ff 2 0 55^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^注入完成后^ff 1^将自动^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^解除安全锁^ff 2 0 e6^^fe 8^^ff 1^^ff 2 0 b9^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^那家伙交给我来了结^ff 2 0 23^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你先走！^ff 2 0 35^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 1^但是。。。^ff 2 0 19^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^这里就交给我了！^ff 1^快走！^ff 2 0 2d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^赶紧走啊！^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你一定要成功^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 50^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 23^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^一定要活着回来啊！^ff 2 0 32^^ff ff^
+rm_9301.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^成功了！^ff 2 0 2d^^ff ff^
+rm_9301.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那当然了^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^好了^ff 1^赶紧从这里逃出去吧^ff 2 0 32^^ff ff^
+rm_9301.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 2 80^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥。。。快点回来啊^ff 2 0 2d^^fe 8^^ff 1^^ff 2 2 df^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^为什么一副那样的表情。。。^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我是一定会遵守约定的^ff 2 0 5a^^fe 8^^ff 1^^ff 2 1 36^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥^ff 0^^ff 1^^ff 1^答应我好么^ff 1^再也哪里都别去了^ff 2 0 73^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^抱歉^ff 1^克莱尔^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我不能那样做^ff 2 0 4b^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^对于我来说^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^还有剩下的事情要做^ff 2 0 41^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥^ff 1^难道说！？^ff 2 0 21^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^没错！^ff 1^这个仇我一定要报！^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 8^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一定要让安布雷拉毁灭！^ff 2 0 44^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一口气让它彻底的灭亡！^ff 2 0 5f^^fe 8^^ff ff^
+rm_9302.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^成功了！^ff 2 0 2d^^ff ff^
+rm_9302.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那当然了^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^好了^ff 1^赶紧从这里逃出去吧^ff 2 0 32^^ff ff^
+rm_9302.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 2 80^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥。。。快点回来啊^ff 2 0 2d^^fe 8^^ff 1^^ff 2 2 df^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^为什么一副那样的表情。。。^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我是一定会遵守约定的^ff 2 0 5a^^fe 8^^ff 1^^ff 2 1 36^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥^ff 0^^ff 1^^ff 1^答应我好么^ff 1^再也哪里都别去了^ff 2 0 73^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^抱歉^ff 1^克莱尔^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我不能那样做^ff 2 0 4b^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^对于我来说^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^还有剩下的事情要做^ff 2 0 41^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥^ff 1^难道说！？^ff 2 0 21^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^没错！^ff 1^这个仇我一定要报！^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 8^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一定要让安布雷拉毁灭！^ff 2 0 44^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一口气让它彻底的灭亡！^ff 2 0 5f^^fe 8^^ff ff^
+rm_9310.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^自动爆炸装置已经启动^ff 2 0 5a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^请所有人员立即撤离^ff 2 0 5a^^ff ff^
+rm_9310.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^距离爆炸还有５分钟^ff 2 0 b4^^ff ff^
+rm_9310.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^全部门锁已经解除^ff 2 0 50^^ff ff^
+rm_9310.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^紧急电梯可以使用^ff 2 0 64^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^要追上她！^ff 2 0 17^^fe 8^^ff 1^^ff 2 0 11^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我不要紧了^ff 2 0 1e^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^但是。。。哥哥！^ff 2 0 1e^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^去救史蒂夫吧！^ff 1^快去！！^ff 2 0 41^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 8^^fe 8^^ff 0^^ff 1^^ff 1^终于找到你了呢^ff 1^阿雷克西亚^ff 2 0 46^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^跟我来吧^ff 2 0 23^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你把很完美的病毒^ff 1^^ff 0^^ff 1^^ff 1^Ｔ－Ｖｅｒｏｎｉｃａ制造出来了^ff 2 0 64^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^而且^ff 1^那个样品^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^现在^ff 1^就在你的体内^ff 2 0 5f^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我想要得到它^ff 2 0 1e^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^现在！^ff 2 0 14^^ff ff^
+rm_9320.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^想要我？^ff 2 0 28^^fe 8^^ff 1^^ff 2 0 28^^fe 8^^ff 0^^ff 1^^ff 1^如果你能做到的话^ff 1^就做给我看看吧^ff 2 0 6e^^ff ff^
+rm_9321.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^怪^ff 1^怪物！^ff 2 0 23^^ff ff^
+rm_9321.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 3^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^就算硬拖也要一起带走！^ff 2 0 32^^ff ff^
+rm_9321.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^威斯克！^ff 2 0 14^^ff ff^
+rm_9321.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^对于曾经是优秀的部下的你^ff 2 0 2f^^ff ff^
+rm_9321.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^这里就交给你了^ff 2 0 33^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 11^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^干得漂亮^ff 1^克里斯^ff 2 0 25^^fe 8^^ff 1^^ff 2 0 9^^fe 8^^ff 1^^ff 1^^ff 1^到最后阿雷克西亚的研究^ff 0^^ff 1^^ff 1^好像也不是什么了不起的东西^ff 2 0 50^^fe 8^^ff 1^^ff 2 0 16^^fe 8^^ff 1^现在剩下的事情就是对你的复仇了！^ff 0^^ff 1^^ff 2 0 64^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^放开我妹妹^ff 1^威斯克^ff 2 0 24^^fe 8^^ff 1^^ff 2 0 e^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你的目的是我而已^ff 2 0 1c^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^如你所愿^ff 2 0 13^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 5^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^唔。。。。。。^ff 2 0 5a^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我太高兴了^ff 1^克里斯^ff 2 0 38^^fe 8^^ff 1^^ff 2 0 c^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^我本来是奔着阿雷克西亚来的^ff 2 0 27^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^却没想到能在这里杀了你^ff 2 0 3e^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^让你失望了^ff 2 0 2a^^fe 8^^ff 1^^ff 2 0 c^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^阿雷克西亚已经^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^落不到你的手上了^ff 2 0 3c^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我不在乎那个^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 d^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^因为我手上已经有史蒂夫了^ff 2 0 3f^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^史蒂夫！？^ff 2 0 14^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^他的体内还残留有^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^Ｔ－阿雷克西亚^ff 2 0 61^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 4^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^能成为很好的研究材料呢^ff 2 0 39^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 6^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^说不定能像我一样复苏^ff 2 0 46^^fe 8^^ff 1^^ff 2 0 8^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^也许什么时候^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^就能和你的妹妹再会呢^ff 2 0 46^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你这家伙！^ff 2 0 1e^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^放了史蒂夫！！^ff 2 0 21^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^小姑娘^ff 1^很遗憾^ff 2 0 21^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 4^^fe 8^^ff 0^^ff 1^^ff 1^史蒂夫早就被我的部下运出去了^ff 2 0 33^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你先走^ff 1^克莱尔^ff 2 0 26^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^那哥哥呢？^ff 2 0 15^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我作为ＳＴＡＲＳ^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^生存下来的一员^ff 2 0 37^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^必须要打倒那家伙^ff 2 0 27^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我明白了！^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我们之前可是约定好了呢^ff 2 0 50^^ff ff^
+rm_9350.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^就在这次做个了断吧^ff 2 0 2b^^fe 8^^fe 0^^ff 1^^ff 2 0 d^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^你就在另一个世界^ff 0^^ff 1^^ff 1^^ff 1^给因你而死的战友们谢罪吧^ff 2 0 50^^ff ff^
+rm_9350.rdx@.bioCvDec
+^ff 1^^fe 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^真有自信呢^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克里斯^ff 2 0 5f^^ff ff^
+rm_9360.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 28^^ff ff^
+rm_9360.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^快走！^ff 2 0 28^^ff ff^
+rm_9360.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^克莱尔！^ff 2 0 28^^ff ff^
+rm_9360.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^等等！^ff 2 0 28^^ff ff^
+rm_9360.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 90^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥。。。快点回来啊^ff 2 0 2d^^fe 8^^ff 1^^ff 2 2 df^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥！^ff 2 0 14^^fe 8^^ff 1^^ff 2 0 2d^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^为什么一副那样的表情。。。^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^我是一定会遵守约定的^ff 2 0 5a^^fe 8^^ff 1^^ff 2 1 36^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥^ff 0^^ff 1^^ff 1^答应我好么^ff 1^再也哪里都别去了^ff 2 0 73^^fe 8^^ff 1^^ff 2 0 14^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^抱歉^ff 1^克莱尔^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我不能那样做^ff 2 0 4b^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^对于我来说^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^还有剩下的事情要做^ff 2 0 41^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^哥哥^ff 1^难道说！？^ff 2 0 21^^fe 8^^ff 1^^ff 2 0 f^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^没错！^ff 1^这个仇我一定要报！^ff 2 0 3c^^fe 8^^ff 1^^ff 2 0 8^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一定要让安布雷拉毁灭！^ff 2 0 44^^fe 8^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^一口气让它彻底的灭亡！^ff 2 0 5f^^fe 8^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 4^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^怎么样！^ff 2 0 42^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 3^^fe 8^^ff 1^^ff 1^^ff 1^我舍弃了人类的身份而换来的力量^ff 0^^ff 1^^ff 1^^ff 1^^ff 2 0 60^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 1^^ff 1^^ff 1^为了得到它不惜使用任何手段^ff 0^^ff 1^^ff 1^^ff 1^^ff 2 0 30^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^去往另一个世界的将会是你^ff 2 0 21^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^真遗憾呢。。。^ff 2 0 21^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^威斯克。。。^ff 2 0 14^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^走狗运的家伙^ff 2 0 34^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 1^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^给我记着^ff 2 0 2a^^fe 8^^ff 1^^ff 2 0 a^^fe 8^^ff 1^^ff 0^^ff 1^^ff 1^^ff 1^下次见面的时候就是你的死期^ff 2 0 2e^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^我随时恭候^ff 2 0 1b^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 0^^ff 1^^ff 1^^ff 1^^ff 1^再会了^ff 1^克里斯！！^ff 2 0 42^^ff ff^
+rm_9370.rdx@.bioCvDec
+^fe 0^^ff 1^^ff 2 0 2^^fe 8^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^^ff 1^啊哈哈哈^ff 0^^ff 1^^ff 1^^ff 1^哈哈哈哈哈哈。。。。。。^ff 2 1 86^^ff ff^

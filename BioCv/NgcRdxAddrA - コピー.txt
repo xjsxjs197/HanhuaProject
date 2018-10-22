@@ -1,0 +1,220 @@
+﻿rm_0000.rdx@.bioCvDec
+15ee0 16ae0 15ee0
+rm_0010.rdx@.bioCvDec
+1c00 1d00 1c00
+rm_0020.rdx@.bioCvDec
+11dc0 11e60 11dc0
+rm_0021.rdx@.bioCvDec
+121c0 12260 121c0
+rm_0030.rdx@.bioCvDec
+123c0 12960 123c0
+rm_0031.rdx@.bioCvDec
+3b00 3ce0 3b00
+rm_0040.rdx@.bioCvDec
+8ee0 9580 8ee0
+rm_0050.rdx@.bioCvDec
+9f20 a100 9f20
+rm_0060.rdx@.bioCvDec
+36a0 0 36a0
+rm_0070.rdx@.bioCvDec
+44a0 4500 44a0
+rm_0080.rdx@.bioCvDec
+7180 74c0 7180
+rm_0090.rdx@.bioCvDec
+ae60 b500 ae60
+rm_0100.rdx@.bioCvDec
+5740 0 5740
+rm_0110.rdx@.bioCvDec
+7380 7520 7380
+rm_0120.rdx@.bioCvDec
+2f60 0 2f60
+rm_0140.rdx@.bioCvDec
+4320 0 4320
+rm_0150.rdx@.bioCvDec
+4840 4a00 4840
+rm_0160.rdx@.bioCvDec
+3480 0 3480
+rm_1000.rdx@.bioCvDec
+7c80 7de0 7c80
+rm_1001.rdx@.bioCvDec
+8720 88a0 8720
+rm_1002.rdx@.bioCvDec
+1cc80 1d2a0 1cc80
+rm_1020.rdx@.bioCvDec
+16f80 17aa0 16f80
+rm_1021.rdx@.bioCvDec
+16b00 17620 16b00
+rm_1030.rdx@.bioCvDec
+1fe0 0 1fe0
+rm_1040.rdx@.bioCvDec
+7480 7d20 7480
+rm_1050.rdx@.bioCvDec
+18920 195e0 18920
+rm_1060.rdx@.bioCvDec
+2e00 0 2e00
+rm_1070.rdx@.bioCvDec
+2320 0 2320
+rm_1080.rdx@.bioCvDec
+2920 2ae0 2920
+rm_1090.rdx@.bioCvDec
+7360 7680 7360
+rm_1100.rdx@.bioCvDec
+4ea0 56a0 4ea0
+rm_1110.rdx@.bioCvDec
+5d00 5f40 5d00
+rm_1120.rdx@.bioCvDec
+9d60 0 9d60
+rm_1121.rdx@.bioCvDec
+9340 93e0 9340
+rm_1122.rdx@.bioCvDec
+113e0 114a0 113e0
+rm_1130.rdx@.bioCvDec
+6fe0 71e0 6fe0
+rm_1140.rdx@.bioCvDec
+3b60 3ce0 3b60
+rm_2000.rdx@.bioCvDec
+4140 0 4140
+rm_2010.rdx@.bioCvDec
+49e0 0 49e0
+rm_2011.rdx@.bioCvDec
+5360 0 5360
+rm_2020.rdx@.bioCvDec
+2e20 3020 2e20
+rm_2030.rdx@.bioCvDec
+bd80 c220 bd80
+rm_2031.rdx@.bioCvDec
+34e0 0 34e0
+rm_2040.rdx@.bioCvDec
+9620 9b60 9620
+rm_2050.rdx@.bioCvDec
+ee80 f560 ee80
+rm_2060.rdx@.bioCvDec
+5880 5b20 5880
+rm_2070.rdx@.bioCvDec
+2860 2a80 2860
+rm_3000.rdx@.bioCvDec
+18e60 19480 18e60
+rm_3010.rdx@.bioCvDec
+c9e0 cb40 c9e0
+rm_3011.rdx@.bioCvDec
+6a40 6b80 6a40
+rm_3020.rdx@.bioCvDec
+c760 c800 c760
+rm_3030.rdx@.bioCvDec
+2780 0 2780
+rm_3040.rdx@.bioCvDec
+6300 66e0 6300
+rm_3050.rdx@.bioCvDec
+41e0 4320 41e0
+rm_3060.rdx@.bioCvDec
+57e0 5aa0 57e0
+rm_3070.rdx@.bioCvDec
+49a0 4f60 49a0
+rm_3080.rdx@.bioCvDec
+dea0 e380 dea0
+rm_3090.rdx@.bioCvDec
+8040 8180 8040
+rm_3091.rdx@.bioCvDec
+7e60 7fa0 7e60
+RM_3101.RDX@.bioCvDec
+1f760 1fcc0 1f760
+rm_3110.rdx@.bioCvDec
+1da0 0 1da0
+rm_3120.rdx@.bioCvDec
+47a0 4d00 47a0
+rm_3130.rdx@.bioCvDec
+13640 13ba0 13640
+rm_3140.rdx@.bioCvDec
+7ba0 8120 7ba0
+rm_3150.rdx@.bioCvDec
+62a0 66e0 62a0
+rm_3160.rdx@.bioCvDec
+32c0 3540 32c0
+rm_3170.rdx@.bioCvDec
+69c0 6f60 69c0
+rm_3180.rdx@.bioCvDec
+da00 dce0 da00
+rm_3190.rdx@.bioCvDec
+3380 3460 3380
+rm_3200.rdx@.bioCvDec
+2dc0 30e0 2dc0
+rm_3210.rdx@.bioCvDec
+ab60 b0e0 ab60
+rm_3220.rdx@.bioCvDec
+4640 4780 4640
+rm_3230.rdx@.bioCvDec
+aba0 ac80 aba0
+rm_3240.rdx@.bioCvDec
+11380 11420 11380
+rm_4000.rdx@.bioCvDec
+7860 7a20 7860
+rm_4001.rdx@.bioCvDec
+81c0 8380 81c0
+rm_4010.rdx@.bioCvDec
+a320 a820 a320
+rm_4011.rdx@.bioCvDec
+a2e0 a7e0 a2e0
+rm_4012.rdx@.bioCvDec
+a380 a880 a380
+rm_4020.rdx@.bioCvDec
+a920 ad40 a920
+rm_4030.rdx@.bioCvDec
+59c0 5a80 59c0
+rm_4040.rdx@.bioCvDec
+4700 4a80 4700
+rm_4050.rdx@.bioCvDec
+3b60 3ce0 3b60
+rm_5000.rdx@.bioCvDec
+42a0 4600 42a0
+rm_5001.rdx@.bioCvDec
+15900 16180 15900
+rm_5010.rdx@.bioCvDec
+137a0 13960 137a0
+rm_5510.rdx@.bioCvDec
+6b20 6b80 6b20
+rm_5520.rdx@.bioCvDec
+26a0 0 26a0
+rm_5530.rdx@.bioCvDec
+30c0 0 30c0
+rm_5540.rdx@.bioCvDec
+4b20 0 4b20
+rm_5550.rdx@.bioCvDec
+65e0 6640 65e0
+rm_5580.rdx@.bioCvDec
+6f40 6fa0 6f40
+rm_5590.rdx@.bioCvDec
+30e0 0 30e0
+rm_5600.rdx@.bioCvDec
+a900 a960 a900
+rm_5610.rdx@.bioCvDec
+5540 55a0 5540
+rm_5620.rdx@.bioCvDec
+2540 0 2540
+rm_5630.rdx@.bioCvDec
+50a0 5100 50a0
+rm_5640.rdx@.bioCvDec
+26c0 0 26c0
+rm_5650.rdx@.bioCvDec
+6740 67a0 6740
+rm_5660.rdx@.bioCvDec
+2540 0 2540
+rm_5670.rdx@.bioCvDec
+3060 0 3060
+rm_5680.rdx@.bioCvDec
+2d00 0 2d00
+rm_5690.rdx@.bioCvDec
+17aa0 17b00 17aa0
+rm_5700.rdx@.bioCvDec
+2d20 2d80 2d20
+rm_5710.rdx@.bioCvDec
+4dc0 4e20 4dc0
+rm_5800.rdx@.bioCvDec
+153c0 15420 153c0
+rm_5810.rdx@.bioCvDec
+cca0 cd00 cca0
+rm_5820.rdx@.bioCvDec
+24ee0 24fa0 24ee0
+rm_5830.rdx@.bioCvDec
+ae40 aea0 ae40
+rm_5840.rdx@.bioCvDec
+1580 0 1580

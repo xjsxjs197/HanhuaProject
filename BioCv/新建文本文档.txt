@@ -1,0 +1,28 @@
+^fa 02^　　　　　　　有个开关^fd 0^要按下开关吗？^fc^^fb 20^　 
+^fa 02^　　　　　　　有个开关^fd 0^要按下开关吗？^fc^^fb 20^　 
+^fa 0 fc^　　　　　　　等等！　　　　　　　^fc^^fa 02 fe 12^ 
+^fa 0 fc^　　　　　　放开我！　　　　　　　^fc^^fa 02 fe 22^ 
+^fa 0 fc^　不要害怕　我不是丧尸　^fc^^fa 02 fe 59^ 
+^fa^　　　纴E骸∥艺业叫∨⒘恕　　fc^　　崩塌的道路也可以通过了　　　　^fc^^fa 02 fe a2^ 
+^fa 0 fc^　　　我叫克莱尔　你叫什么？　　　　^fc^^fa 02 fe 3f^ 
+^fa 0 fc^　　　　　　　雪莉　　　　　　　^fc^^fa 02 fe 1c^ 
+^fa 0 fc^　　　　　你爸爸和妈妈呢？　　　　　　^fc^^fa 02 fe 35^ 
+^fa 0 fc^　　他们正在安布雷拉工厂工作　　^fc^^fa 02 fe 7b^ 
+^fa 0 fc^　　　　　　　工厂…？　^fc^^fa 02 fd 1b^^fa 0 fc^　　　为什么你一个人在这纴E俊fc^^fa 02 fe 64^ 
+^fa^　　　　妈妈给我打电话　　　^fc^　　　让我来警瞾E帧　　　　　　　fc^^fa 02 fd 96^^fa 0 fc^　　　　　说家纴E芪Ｏ铡　　　　fc^^fa 02 fe 2f^ 
+^fa 0 fc^　这纴E赡鼙燃依丒踩　fc^^fa 02 fd 64^^fa^　　但是　也变得很危险了　　^fc^　和我一起走吧　　　　　　　　　^fc^^fa 02 fe 74^ 
+^fa^　　　　不　我不蟻E酵饷嫒ァ　　fc^　　　虽然不知道是什么东西　　　　^fc^^fa 02 fd 78^^fa 0 fc^　　　　　　我看到了一个　　　　　　　^fc^^fa 02 fd 2e^^fa^　　　　比丧尸大很多的怪蝸E　　fc^　　　藖E谡椅夷兀　　　　　　　fc^^fa 02 fe 78^ 
+^fa 0 fc^　　　　　　那是什么…？　^fc^^fa 02 fe 1c^ 
+^fa 0 fc^　　　就是那个东西　藖E凑饫丒耍　　　fc^^fa 02 fe 5c^ 
+^fa 0 fc^　　　　　　　等等！　　　　　　　^fc^^fa 02 fe 26^ 
+^fa 0 fc^　　　　　　已经安全了　　　　　　^fc^^fa 02 fe 28^ 
+^fa 2 fc^　　　　　各式各样的美术品^fd 0^^fc^　　　　　没什么能用的东西^fe 00^
+^fa 2 fc^　　　　　　整历涯很干净^fe 00^
+^fa 2 fc^　　　有些杯子，没有什么特别的^fe 00^
+^fa 2 fc^　　　　　好像没有被使用过^fe 00^
+AC00 8700 9500
+2f 79 70
+
+51 cf 4c
+
+偍媞條採嫙乮2015/12/11乯丄僶乕僕儑儞傾僢僾
