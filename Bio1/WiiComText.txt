@@ -3,7 +3,7 @@ etc\core
 subscr\subscr_1
 106320 106908 1094aa
 sys\main_1
-2f2508 2f266c
+2f2508 2f266e
 sys\main_2
 2ef9a4 2efbf6
 st1\r10a
